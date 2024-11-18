@@ -2,6 +2,8 @@
 
 ###
 
+<a href="https://youtu.be/nOYUY3H1_cQ">Rubik's Cube Video Demonstration</a>
+
 <p align="left">
   <ul>
     <li>Built a static cube by using a prefab of a cubie (one of the smaller cubes that make up the Rubik's cube), duplicating it, and then assembling them together.</li>
